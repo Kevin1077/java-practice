@@ -1,4 +1,9 @@
-package sample2;
+/*file			:	Palindrome.java
+ * Author		:	Kevin Biju Kulangara
+ * version		:	1.0
+ * description	:	:       To check wheather a string is palindrome or not
+ * date			:	03/10/23
+ */
 
 import java.util.Scanner;
 
